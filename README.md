@@ -1,6 +1,6 @@
-<h1> Hi there, I'm Momin 👋</h1>
+<h1> Hi there, I'm Niniola 👋</h1>
 
-## I'm a Flutter developer
+## I'm a Flutter developer, blockchain developer and web developer
 
 - ✌️ Active in: Coding stuff
 - ✏️ Learning: Bioinformatics, Forex Trading & 
