@@ -2,12 +2,12 @@
 
 ## I'm a Flutter developer, blockchain developer and web developer
 
-- ✌️ Active in: Coding stuff
-- ✏️ Learning: Bioinformatics, Forex Trading & 
+- ✌️ Active in: Software development
+- ✏️ Learning: Bioinformatics, Forex Trading & R
 - 💚 Would Love to: Make applications that helps people 🧗‍♂️
-- 🌱 Current focus: Improving health and planting trees.
+- 🌱 Current focus: Improving health, impact lives positively and planting trees.
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read books. 🥰
+- ⚡ Fun fact: I love to read books and play games. 🥰
 
 <a target="_blank" href="https://apesin.dev"><img src="assets/github-intro.gif" align="right" width="250"></a>
 
@@ -44,7 +44,7 @@
 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][mywebsitelink]
 
-[<img align="left" alt="Figma" width="26px" src="assets/figma.png" />][mywebsitelink]
+[<img align="left" alt="PHP" width="26px" src="assets/figma.png" />][mywebsitelink]
 
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][mywebsitelink]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mywebsitelink]
