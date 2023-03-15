@@ -2,8 +2,8 @@
 
 ## I'm a Flutter developer, blockchain developer and web developer
 
-- ✌️ Active in: Software development
-- ✏️ Learning: Bioinformatics, Forex Trading & R
+- ✌️ Active in: Software development, Cyber Security and Blockchain.
+- ✏️ Learning: Bioinformatics & R
 - 💚 Would Love to: Make applications that helps people 🧗‍♂️
 - 🌱 Current focus: Improving health, impact lives positively and planting trees.
 - 🥅 2023 Goals: Build great products.
