@@ -1,12 +1,12 @@
 <h1> Hi there, I'm Niniola 👋</h1>
 
-## I'm a Flutter developer, blockchain developer and web developer
+## I'm a Mobile app developer (Hybrid-Flutter/Native-Java and Swift), JPOS server (ISO 8385) developer, blockchain developer and web developer
 
 - ✌️ Active in: Software development, Cyber Security and Blockchain.
 - ✏️ Learning: Bioinformatics & R
 - 💚 Would Love to: Make applications that helps people 🧗‍♂️
 - 🌱 Current focus: Improving health, impact lives positively and planting trees.
-- 🥅 2023 Goals: Build great products.
+- 🥅 2024 Goals: Build great products.
 - ⚡ Fun fact: I love to read books and play games. 🥰
 
 <a target="_blank" href="https://apesin.dev"><img src="assets/github-intro.gif" align="right" width="250"></a>
@@ -18,7 +18,7 @@
 
 <br>
 
-[👉 \_\_ apesin.dev](https://apesin.dev)
+[👉 \_\_ apesin.tech](https://apesin.tech)
 
 <br />
 
@@ -86,6 +86,6 @@
 
 [instagram]: https://instagram.com/apesindev
 [linkedin]: https://linkedin.com/in/niniola-adesina-aa60191a5
-[mywebsitelink]: https://apesin.dev
+[mywebsitelink]: https://apesin.tech
 [twitter]: https://twitter.com/niniolaapesin
 
