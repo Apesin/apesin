@@ -6,7 +6,7 @@
 - ✏️ Learning: Bioinformatics & R
 - 💚 Would Love to: Make applications that helps people 🧗‍♂️
 - 🌱 Current focus: Improving health, impact lives positively and planting trees.
-- 🥅 2025 Goals: Build great products.
+- 🥅 2026 Goals: Build great products.
 - ⚡ Fun fact: I love to read books and play games. 🥰
 
 <a target="_blank" href="https://apesin.tech"><img src="assets/github-intro.gif" align="right" width="250"></a>
